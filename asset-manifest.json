@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lazzyms.github.io/csb-jlppqw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lazzyms.github.io/csb-jlppqw/static/js/main.8535980c.chunk.js",
+    "main.js.map": "https://lazzyms.github.io/csb-jlppqw/static/js/main.8535980c.chunk.js.map",
+    "runtime-main.js": "https://lazzyms.github.io/csb-jlppqw/static/js/runtime-main.508343d3.js",
+    "runtime-main.js.map": "https://lazzyms.github.io/csb-jlppqw/static/js/runtime-main.508343d3.js.map",
+    "static/js/2.d9a999fa.chunk.js": "https://lazzyms.github.io/csb-jlppqw/static/js/2.d9a999fa.chunk.js",
+    "static/js/2.d9a999fa.chunk.js.map": "https://lazzyms.github.io/csb-jlppqw/static/js/2.d9a999fa.chunk.js.map",
+    "index.html": "https://lazzyms.github.io/csb-jlppqw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lazzyms.github.io/csb-jlppqw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d9a999fa.chunk.js.LICENSE.txt": "https://lazzyms.github.io/csb-jlppqw/static/js/2.d9a999fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.508343d3.js",
+    "static/js/2.d9a999fa.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8535980c.chunk.js"
+  ]
+}
